@@ -1,0 +1,296 @@
+title
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.hist
+{
+    font-size:14px;
+    text-decoration: blink;
+    
+}
+
+
+body
+{
+    background-color: black;
+    opacity:0.7;
+    background-image:url(fjord.gif);
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-size: cover;
+    
+}
+.logo
+{
+    margin:10px;
+    border: 1.5px solid ; 
+    
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    top:75%;
+    left:4%;
+}
+.w
+{
+    margin:10px;
+    border: 1.5px solid ;
+   
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    top:75%;
+    left:19%;
+}
+.g
+{
+    margin:10px;
+    border: 1.5px solid ;
+    
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    left:34%;
+    top:75%;
+}
+.d
+{
+    margin:10px;
+    border: 1.5px solid ;
+    
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    left:51%;
+    top:75%;
+    
+}
+.t 
+{
+    margin:10px;
+    border: 1.5px solid ;
+    
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    left:64%;
+    top:75%;
+}
+.arbre
+{
+    position:absolute;
+    left:500px;
+    top:80px;
+}
+.s
+{
+    margin:10px;
+    border: 1.5px solid ;
+      
+    border-radius:90px;
+    color:white;
+    position:fixed;
+    left:80%;
+    top:75%;
+}
+.logo:hover
+{
+    background-color:white;
+    text-decoration:Leur histoire;
+}
+.w:hover
+{
+    background-color:white;
+}
+.g:hover
+{
+    background-color:white;
+}
+.t:hover
+{
+    background-color:white;
+}
+.d:hover
+{
+    background-color:white;
+}
+.s:hover
+{
+    background-color:white;
+}
+.blond span { 
+    position:fixed;
+    top:68%; 
+    left:6%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.blond:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.war span { 
+    position:fixed;
+    top:68%; 
+    left:21.5%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.war:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.boat span { 
+    position:fixed;
+    top:68%; 
+    left:35.5%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.boat:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.bird span { 
+    position:fixed;
+    top:68%; 
+    left:52%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.bird:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.vik span { 
+    position:fixed;
+    top:68%; 
+    left:65%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.vik:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.bone span { 
+    position:fixed;
+    top:68%; 
+    left:83%;
+    color:#fff; 
+    background:#3CAFA7; 
+    padding:15px; 
+    border-radius:3px; 
+    
+    /* Faire disparaire infobulle par défaut */
+    /* On determine l'origine de la rotation */ 
+    transform:scale(0) rotate(0);
+    /* Faire durer l'effet */
+   
+}
+.bone:hover span, a:focus span{ 
+    transform:scale(1) rotate(0);
+    
+}
+.become
+{
+  border: 1.5px  inset black;
+  font-size:16.5px;
+  position:absolute;
+    left:59%;
+    top:8.5%;
+    font-family:castellar;
+  
+
+}
+.connect
+{
+  border: 1.5px  inset black;
+  font-size:16.5px;
+  position:absolute;
+  left:75.5%;
+  top:8.5%;
+  font-family:castellar;
+
+}
+.toi
+{
+    color:white;
+    font-family:castellar;
+}
+.become:hover
+{
+    background-color: #A6BCB9;
+    cursor:pointer;
+    
+}
+
+
+
+
+.conect
+{
+    position:absolute;
+    top:16%;
+    left:76%;
+}
+label
+{
+    color:whitesmoke;
+    font-family:castellar;
+    font-size:78%;
+}
+input
+{
+    font-size:62%;
+    font-family:castellar;
+}
+.text
+{
+    font-family: castellar;
+    color:black;
+    top: 34% ;
+    position:absolute;
+    background-color:rgba(255,255,255,0.6);
+    
+}

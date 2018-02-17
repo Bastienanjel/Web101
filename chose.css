@@ -1,0 +1,36 @@
+body
+{
+    font-family:castellar; 
+    font-weight :bold;
+    font-size:18px;
+    
+    
+}
+strong
+{
+    font-size:25px;
+}
+p
+{
+    padding:150px;
+    width: 700px;
+    border: 10px black double; 
+    margin-left: auto;
+    margin-right: auto;
+}
+h1
+{ 
+    text-align: center 
+}
+.pat
+{
+    font-size:22;
+}
+table
+{
+    font-size:15px;
+}
+.lettre
+{
+    font-size:25px;
+}

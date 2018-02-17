@@ -1,0 +1,24 @@
+body
+{
+    background-image:url(bois.jpg);
+    font-family:castellar; 
+    font-weight :bold;
+    font-size:18px;
+    
+    
+    vertical-align: baseline;
+}
+p
+{
+    padding:150px;
+    width: 700px;
+    border: 10px black double; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.viki
+{
+    position:absolute;
+    top:3.5%;
+    left:73%;
+}

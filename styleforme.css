@@ -1,0 +1,54 @@
+label
+{
+    color: black;
+    font-family:castellar;
+    font-size:30px;
+    font-weight :bold;            
+    
+
+    
+    
+}
+
+table
+{
+position:absolute;
+top:20%;
+left:8%;
+border:3px black solid;
+
+}
+input
+{
+    font-size:15px;
+    font-family:castellar;
+}
+
+erreur
+{
+    color:red;
+    position:absolute;
+    top:30%;
+    left:10%;
+}
+.chose
+{
+    font-family:castellar;
+    color: purple;
+    position:absolute;
+    top:22% ;
+    left:30% ;
+    border:0.8px double blue;
+    border-radius: 5px;
+}
+.chose:hover 
+{
+    background-color: #A6BCB9;
+    cursor:pointer;
+}
+body
+{
+    background-image:url(source.gif);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
